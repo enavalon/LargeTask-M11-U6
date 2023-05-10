@@ -1,0 +1,60 @@
+div {
+    text-align: center;
+}
+body {
+background-image:url(FondoWeb2.jpg) ;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: cover;
+margin: 0;
+user-select: none;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+td {
+    border: 2px solid black;
+    background-color: lightsteelblue;
+}
+.Fletxa {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+footer {
+    background-color: #73b669;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+}
+.columnes {
+    width: 100%;
+    height: 150px;
+}
+.columna-esquerra {
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.columna-dreta {
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.Peu {
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.xarxes {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.correu {
+    text-align: right;
+    vertical-align: bottom;
+}

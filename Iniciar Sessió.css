@@ -1,0 +1,85 @@
+body {
+    background-image:url(FondoWeb2.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0;
+    user-select: none;
+}
+.IniciarSessió {
+    background-color: cyan;
+    border: none;
+    color: black;
+    padding: 16px 30px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.Crear {
+    background-color: yellowgreen;
+    border: none;
+    color: black;
+    padding: 16px 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.Tancar {
+    background-color: red;
+    border: none;
+    color: black;
+    padding: 12px 30px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+h1 {
+    font-size: 70px;
+}
+label, input {
+    font-size: 40px;
+}
+.Fletxa {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+footer {
+    background-color: #73b669;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+}
+.columnes {
+    width: 100%;
+    height: 150px;
+}
+.columna-esquerra {
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.columna-dreta {
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.Peu {
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.xarxes {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.correu {
+    text-align: right;
+    vertical-align: bottom;
+}
